@@ -74,9 +74,9 @@ pip install numpy
 3. Install NumPy if it is not already installed.
 4. Run the following command:
 
-   ```bash
-   python "Vector_&_Matrix_Calculator.py"(Vector_&_Matrix_Calculator.py)
-   ```
+
+**file** ["Vector_&_Matrix_Calculator.py"](Vector_&_Matrix_Calculator.py)
+
 
 **For the notebooks:**
 
