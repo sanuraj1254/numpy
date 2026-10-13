@@ -42,7 +42,7 @@ A Python calculator built using NumPy to perform basic vector and matrix operati
 **Run the calculator:**
 
 ```bash
-**File:** [`Vector_&_Matrix_Calculator.py`](Vector_&_Matrix_Calculator.py)
+**File:** [`Vector_&_Matrix_Calculator.py`](./Vector_&_Matrix_Calculator.py)
 ```
 
 ## 📂 Repository Structure
